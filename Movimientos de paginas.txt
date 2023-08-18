@@ -1,0 +1,16 @@
+http://127.0.0.1:8000/ladingpage
+http://127.0.0.1:8000/login
+http://127.0.0.1:8000/registrocliente
+http://127.0.0.1:8000/Mod
+http://127.0.0.1:8000/mesasdod
+http://127.0.0.1:8000/Mod
+http://127.0.0.1:8000/menu
+http://127.0.0.1:8000/ordenrecibida
+
+http://127.0.0.1:8000/ladingpage
+http://127.0.0.1:8000/login
+http://127.0.0.1:8000/registroempleado
+http://127.0.0.1:8000/ordeneslyc
+http://127.0.0.1:8000listadoorden
+
+http://127.0.0.1:8000/ingredientes
